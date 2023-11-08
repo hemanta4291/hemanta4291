@@ -4,7 +4,7 @@ React Js developer
 Skills: HTML, CSS, Styled Components, Tailwind CSS, Material UI, Bootstrap, JavaScript, Node js, React js, redux, JWT, and Rest API
 
 - 🌱 I’m currently learning javascript 
-- 👯 I’m looking to collaborate on GitHub 
+- 👯 I’m looking to collaborate on github 
 - 💬 Ask me about React Js 
 
 
